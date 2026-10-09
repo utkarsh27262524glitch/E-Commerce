@@ -194,12 +194,9 @@ https://whisking-update-drank.ngrok-free.dev/ecommerce-platform/
 **Team Members:**
 
 * Utkarsh Kumar Singh
-* [Abhiraj Sharma]
-* [Trapti Srivastava]
-* [Anshu]
-* [Add the remaining team members]
-
-*Replace the placeholders with the actual names of all team members.*
+* Abhiraj Sharma
+* Trapti Srivastava
+* Anshu
 
 ## 🚀 Future Improvements
 
@@ -213,5 +210,3 @@ https://whisking-update-drank.ngrok-free.dev/ecommerce-platform/
 ---
 
 ### Built with 💻 by Team ByteCode
-
-*Learning, building, and growing together through code.*
